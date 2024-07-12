@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  html {
+    font-family: "Marcellus";
+  }
+}
+
+
+body {
+  @apply bg-primary h-screen;
+}
+.button {
+  @apply border border-textMenu py-5 px-[46px] text-textMenu font-semibold rounded-full hover:bg-textMenu w-fit cursor-pointer uppercase hover:text-active transition-all duration-200 ease-in;
+}
+
+hr {
+  border: none;
+  border-top: 1px dotted #D2CFCC;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 100%;
+}
