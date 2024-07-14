@@ -7,7 +7,7 @@ import bag from "../assets/bag.svg";
 const Header = ({ onMobileMenuToggle }) => {
   return (
     <div className="header flex items-center justify-between">
-      <div className="flex-1 py-10 pl-4 lg:pl-[34px] border-t border-b flex gap-[50px] items-center justify-between  text-textMenu uppercase text-lg font-normal">
+      <div className="flex-1 py-4 md:py-10 pl-4 lg:pl-[34px] border-t border-b flex gap-[50px] items-center justify-between  text-textMenu uppercase text-lg font-normal">
         <div className="hidden md:flex gap-4 lg:gap-[50px]">
           <span className="text-active cursor-pointer">Home</span>
           <span className="cursor-pointer">Shop</span>
@@ -34,7 +34,7 @@ const Header = ({ onMobileMenuToggle }) => {
           </svg>
         </button>
       </div>
-      <img src={Logo} alt="Logo" className="w-20 h-20 md:w-[228px] md:h-[210px]" />
+      <img src={Logo} alt="Logo" className="w-22 h-20 md:w-[228px] md:h-[210px]" />
       <div className="flex-1 pr-4 lg:pr-[34px] py-[28px] border-t border-b text-right hidden md:flex items-center justify-end">
         <div className="flex items-center relative w-full lg:w-[260px]">
           <input
