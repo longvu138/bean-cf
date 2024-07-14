@@ -1,6 +1,6 @@
 import React from "react";
 import flinsta1 from "../assets/flinsta1.png";
-import flinsta2 from "../assets/flinsta1.png";
+import flinsta2 from "../assets/flinsta2.png";
 import flinsta3 from "../assets/flinsta3.png";
 import flinsta4 from "../assets/flinsta4.png";
 import flinsta5 from "../assets/flinsta5.png";
