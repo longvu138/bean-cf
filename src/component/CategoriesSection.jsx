@@ -21,9 +21,9 @@ const CategoriesSection = () => {
               Euismod eget id posuere nisl ut me duis in lectus elementum
               tincidunt augue ut neger in tincidunt amet et ultrices.
             </div>
-            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0]">
+            <div className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0] block my-0 m-auto">
               Shop category
-            </span>
+            </div>
           </div>
         </div>
         <div className="flex flex-col justify-center">
@@ -38,7 +38,7 @@ const CategoriesSection = () => {
               Euismod eget id posuere nisl ut me duis in lectus elementum
               tincidunt augue ut neger in tincidunt amet et ultrices.
             </div>
-            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0]">
+            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0] block my-0 m-auto">
               Shop category
             </span>
           </div>
@@ -54,7 +54,7 @@ const CategoriesSection = () => {
               Euismod eget id posuere nisl ut me duis in lectus elementum
               tincidunt augue ut neger in tincidunt amet et ultrices.
             </div>
-            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0]">
+            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0] block my-0 m-auto">
               Shop category
             </span>
           </div>
@@ -71,7 +71,7 @@ const CategoriesSection = () => {
               Euismod eget id posuere nisl ut me duis in lectus elementum
               tincidunt augue ut neger in tincidunt amet et ultrices.
             </div>
-            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0]">
+            <span className="mt-3 font-semibold text-lg leading-[28px] border-b-2 border-[#d0d0d0] block my-0 m-auto">
               Shop category
             </span>
           </div>
